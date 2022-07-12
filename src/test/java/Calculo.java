@@ -6,7 +6,7 @@ public class Calculo {
 		// TODO Auto-generated method stub
       Operacoes o = new Operacoes();
     
-      o.soma(1, 2);
+      o.soma(4, 52);
       
      
       o.dividir(10, 2);
